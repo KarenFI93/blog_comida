@@ -1,0 +1,73 @@
+body{
+	background-image: url(../img/apartamento_lujo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+.row {
+	background-color: rgba(157, 198, 198 , .8);
+	/*background: #9DC6C6;*/
+}
+
+.row-principal{
+	border-bottom: 1px solid white;
+	padding-bottom: 2px;
+}
+
+.columna-titulo{
+	border-right: 1px solid white;
+}
+
+.input-group-field{
+  width: 100%;
+}
+
+.color {
+	background-color: rgba(142, 149, 191, .7);
+}
+
+/*.color_column2 {
+	background-color: #FADFEC;
+}*/
+
+.estilo li  a {
+	border: 2px solid #E01D44; 
+	border-radius: 0.3em;
+}
+
+.estilo-image{
+	 height: 129px;
+}
+
+.historial-comment{
+	border: 1px solid grey;
+	padding:7px;
+	border-radius: 0.5em;
+	background-color: #FADFEC;
+}
+
+
+p{
+	text-align: justify;
+}
+
+.callout.secondary {
+	background-color: #FADFEC;
+}
+
+
+.callout {
+	background-color: rgba(142, 149, 191, .7);
+}
+
+
+
+
+
+
+
+
